@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Terrain\Chunk.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Core\OctreeNode.cs" Line="684" Column="67" />
+      <File FileName="Assets\Scripts\Terrain\Chunk.cs" Line="9" Column="32" />
+      <File FileName="Assets\Scripts\Core\lib\ThreadManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\Downloads\ccoder-Voxels-master\Assets\Tasks\TaskFactory.cs" Line="1" Column="1" />
+      <File FileName="..\..\Downloads\ccoder-Voxels-master\Assets\Terrain\Island.cs" Line="1" Column="1" />
+      <File FileName="..\..\Downloads\ccoder-Voxels-master\Assets\Voxels\VoxelGenerators\BaseVoxelGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Terrain\Planet.cs" Line="7" Column="33" />
+      <File FileName="Assets\Scripts\Terrain\ChunkThread.cs" Line="12" Column="77" />
+      <File FileName="Assets\Scripts\Core\lib\ThreadedJob.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\Density.cs" Line="41" Column="62" />
+      <File FileName="Assets\Scripts\Terrain\SeamChunk.cs" Line="35" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
